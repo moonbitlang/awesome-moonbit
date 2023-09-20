@@ -15,7 +15,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](/moonbitla
 
 - [Community](#community)
 - [Benchmarking](#benchmarking)
-- [Foreign Function Interface](#ffi)
+- [Foreign Function Interface](#foreign-function-interface)
 - [Examples](#examples)
 - [Package Management](#package-management)
 
@@ -45,7 +45,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](/moonbitla
 - [Tetris Game](https://www.moonbitlang.com/gallery/tetris/)
 - [Mandelbrot set](https://www.moonbitlang.com/blog/mandelbrot-set/)
 - [Game of Life](https://www.moonbitlang.com/blog/conways-game/)
-- [Riscv Disassembler](https://github.com/chaihf1999/riscv-disassembler)
+- [RISC-V Disassembler](https://github.com/chaihf1999/riscv-disassembler)
 - [Regular expression to NFA](https://github.com/chaihf1999/re2nfa)
 
 
