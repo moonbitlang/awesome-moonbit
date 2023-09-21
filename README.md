@@ -47,7 +47,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](/moonbitla
 - [Game of Life](https://www.moonbitlang.com/blog/conways-game/)
 - [RISC-V Disassembler](https://github.com/chaihf1999/riscv-disassembler)
 - [Regular expression to NFA](https://github.com/chaihf1999/re2nfa)
-- [MoonUI: component-based lightweight UI library] (https://github.com/Yoorkin/MoonUI)
+- [MoonUI: component-based lightweight UI library](https://github.com/Yoorkin/MoonUI)
 
 
 ## Package Management
