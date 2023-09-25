@@ -5,7 +5,7 @@ Awesome MoonBit
 
 > _**Everything you'll ever need on the road to mastering MoonBit.**_
 
-A curated list of references to awesome MoonBit tools, frameworks, libraries and articles. 
+A curated list of references to awesome MoonBit tools, frameworks, libraries and articles.
 
 The IDE environment is available at https://try.moonbitlang.com without any installation, and for a quick introduction to the modern MoonBit development workflow consult the [**Up and Running with MoonBit**](https://www.moonbitlang.com/docs/build-system-tutorial/) tutorial.
 
@@ -18,6 +18,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](/moonbitla
 - [Foreign Function Interface](#foreign-function-interface)
 - [Examples](#examples)
 - [Package Management](#package-management)
+- [Tooling](#tooling)
 
 * * *
 
@@ -53,5 +54,9 @@ Your favorite package is not listed? Fork and [create a Pull Request](/moonbitla
 ## Package Management
 - **Build Tools**:
   - [Build system tutorial](https://www.moonbitlang.com/docs/build-system-tutorial/)
+
+## Tooling
+
+- [tree-sitter-moonbit](https://github.com/bzy-debug/tree-sitter-moonbit)
 
 * * *
