@@ -58,5 +58,6 @@ Your favorite package is not listed? Fork and [create a Pull Request](/moonbitla
 ## Tooling
 
 - [tree-sitter-moonbit](https://github.com/bzy-debug/tree-sitter-moonbit)
+- [Github Action: `hustcer/setup-moonbit`](https://github.com/hustcer/setup-moonbit)
 
 * * *
