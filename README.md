@@ -28,7 +28,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](/moonbitla
 - [MoonBit Discourse Web Forum](https://discuss.moonbitlang.com/)
 - [MoonBit Discord Chat](https://discord.gg/CVFRavvRav)
 - [MoonBit SubReddit](https://www.reddit.com/user/Moonbitlang/)
-- [MoonBit Youtube Channel](https://www.youtube.com/@moonbitlang_idea)
+- [MoonBit Youtube Channel](https://www.youtube.com/@MoonBit_lang)
 - [MoonBit Github](https://github.com/moonbitlang/)
 - [MoonBit Twitter](https://twitter.com/moonbitlang)
 
