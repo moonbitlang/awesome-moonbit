@@ -41,14 +41,38 @@ Your favorite package is not listed? Fork and [create a Pull Request](/moonbitla
 
 - [MoonBit's FFI document](https://www.moonbitlang.com/docs/ffi-and-wasm-host/)
 
-## Examples
+## Examples and Projects
 - [Examples](https://github.com/moonbitlang/moonbit-docs/tree/main/examples)
 - [Tetris Game](https://www.moonbitlang.com/gallery/tetris/)
 - [Mandelbrot set](https://www.moonbitlang.com/blog/mandelbrot-set/)
 - [Game of Life](https://www.moonbitlang.com/blog/conways-game/)
 - [RISC-V Disassembler](https://github.com/chaihf1999/riscv-disassembler)
 - [Regular expression to NFA](https://github.com/chaihf1999/re2nfa)
-- [MoonUI: component-based lightweight UI library](https://github.com/Yoorkin/MoonUI)
+- [moonbitlang/core](): MoonBit core library
+- [moonbitlang/x](https://github.com/moonbitlang/x): Experimental libraries for MoonBit, including system io, file system, encoding/decoding, crypto, time, etc.
+- [moonbitlang/moonlex](https://github.com/moonbit-community/moonlex): Simple lexer generator for MoonBit.
+- [moonbitlang/moonyacc](https://github.com/moonbitlang/moonyacc): A LR(1) parser generator for MoonBit, compatible with ocamlyacc's syntax.
+- [cmark](https://github.com/moonbit-community/cmark): A CommonMark toolkit for the MoonBit
+- [Rabbit-TEA](https://github.com/Yoorkin/rabbit-tea): a functional web UI framework that follows The Elm Architecture
+- [respo.mbt](https://github.com/Respo/respo.mbt): A virtual DOM MVC library in MoonBit
+- [ArgParser](https://github.com/Yoorkin/ArgParser): Command line argument parser for MoonBit. Specify the interface via declarative style code.
+- [memory.mbt](https://github.com/tonyfettes/memory.mbt): Simple memory access and management to be used with WASI FFI
+- [moonbit-arduino](https://github.com/moonbit-community/moonbit-arduino): MoonBit Arduino Binding, work in progress.
+- [moonbit-base64](https://github.com/gmlewis/moonbit-base64): A simple base64 encoder based on Go's implementation.
+- [moonbit-crc32](https://github.com/gmlewis/moonbit-crc32): Provide simple crc32 hash algorithm
+- [moonbit-gzip](https://github.com/gmlewis/moonbit-gzip): A simplified gzip/gunzip algorithm
+- [moonbit-hash](https://github.com/gmlewis/moonbit-hash): A simple hash algorithm
+- [moonbit-md5](https://github.com/gmlewis/moonbit-md5): Provide simple md5 hash algorithm.
+- [moonbit-pdk](https://github.com/gmlewis/moonbit-pdk): Extism PDK for the MoonBit. 
+- [moonbit-zlib](https://github.com/gmlewis/moonbit-zlib): A simplified zlib format compressed data package.  
+- [mocket](https://github.com/oboard/mocket): A web framework.
+- [torch.mbt](https://github.com/tonyfettes/torch.mbt): PyTorch-like tensor operations implemented in MoonBit.
+- [trie](https://github.com/Yoorkin/trie): A simple implementation of trie data structure.
+- [YumeXi/format](https://github.com/YumeXi/format): provides formatting facilities for MoonBit, including pretty printing
+- [prettyprinter](https://github.com/Yoorkin/prettyprinter): Another pretty printer library.
+- [XMLParser](https://github.com/moonbit-community/XMLParser): XML parsing library implemented by parser combinators.
+- [parsec.mbt](https://github.com/illusory0x0/parserc.mbt): Parser combinator for MoonBit, forked from [peter-jerry-ye/moonbit-parser-combinator](https://github.com/peter-jerry-ye/moonbit-parser-combinator)
+
 
 
 ## Package Management
