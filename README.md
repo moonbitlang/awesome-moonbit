@@ -71,7 +71,16 @@ Your favorite package is not listed? Fork and [create a Pull Request](/moonbitla
 - [YumeXi/format](https://github.com/YumeXi/format): provides formatting facilities for MoonBit, including pretty printing
 - [prettyprinter](https://github.com/Yoorkin/prettyprinter): Another pretty printer library.
 - [XMLParser](https://github.com/moonbit-community/XMLParser): XML parsing library implemented by parser combinators.
-- [parsec.mbt](https://github.com/illusory0x0/parserc.mbt): Parser combinator for MoonBit, forked from [peter-jerry-ye/moonbit-parser-combinator](https://github.com/peter-jerry-ye/moonbit-parser-combinator)
+- [illusory0x0/parserc](https://github.com/illusory0x0/parserc.mbt): Parser combinator for MoonBit, forked from [peter-jerry-ye/moonbit-parser-combinator](https://github.com/peter-jerry-ye/moonbit-parser-combinator)
+- [illusory0x0/lazy](https://github.com/illusory0x0/lazy.mbt): Lazy library support recursion structure
+- [illusory0x0/native](https://github.com/moonbit-community/native): native FFI utility
+- [illusory0x0/posix](https://github.com/moonbit-community/posix): posix binding for MoonBit, now support basic file operations
+- [illusory0x0/fuzzy_match](https://github.com/moonbit-community/fuzzy_match): A library for fuzzy string matching and fuzzy string searching
+- [illusory0x0/immut_deque](https://github.com/moonbit-community/immut_deque): double ended queue (aka Dequeue or Deque) based on cons list and snoc list.
+- [illusory0x0/fun](https://github.com/moonbit-community/fun): A library that provides function composition, curry, uncurry, arrow function alias, curry function application.
+- [illusory0x0/jcore](https://github.com/moonbit-community/jcore): JavaScript core library' s wasm binding. Only provides some basic FFI 
+interoperate with WebAssembly
+- [illusory0x0/color](https://github.com/illusory0x0/color.mbt): RGB and HSL conversion and store color in UInt32
 
 
 
