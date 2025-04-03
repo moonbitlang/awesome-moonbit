@@ -42,7 +42,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](/moonbitla
 - [MoonBit's FFI document](https://docs.moonbitlang.com/en/latest/language/ffi.html)
 
 ## Examples and Projects
-- [Examples](https://github.com/moonbitlang/moonbit-docs/tree/main/examples)
+- [Examples](https://github.com/moonbitlang/moonbit-docs/tree/main/legacy/examples)
 - [Tetris Game](https://www.moonbitlang.com/gallery/tetris/)
 - [Mandelbrot set](https://www.moonbitlang.com/blog/mandelbrot-set/)
 - [Game of Life](https://www.moonbitlang.com/blog/conways-game/)
