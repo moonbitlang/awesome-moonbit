@@ -39,7 +39,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](/moonbitla
 
 ## Foreign Function Interface
 
-- [MoonBit's FFI document](https://www.moonbitlang.com/docs/ffi-and-wasm-host/)
+- [MoonBit's FFI document](https://docs.moonbitlang.com/en/latest/language/ffi.html)
 
 ## Examples and Projects
 - [Examples](https://github.com/moonbitlang/moonbit-docs/tree/main/examples)
