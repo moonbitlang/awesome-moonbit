@@ -25,7 +25,6 @@ Your favorite package is not listed? Fork and create a Pull Request to add it!
 ## Examples and Projects
 - [Examples](https://github.com/moonbitlang/moonbit-docs/tree/main/legacy/examples)
 - [Tetris Game](https://www.moonbitlang.com/gallery/tetris/)
-- [Regular expression to NFA](https://github.com/chaihf1999/re2nfa)
 - [moonbitlang/core](https://github.com/moonbitlang/core): MoonBit core library
 - [moonbitlang/x](https://github.com/moonbitlang/x): Experimental libraries for MoonBit, including system io, file system, encoding/decoding, crypto, time, etc.
 - [moonbitlang/moonlex](https://github.com/moonbit-community/moonlex): Simple lexer generator for MoonBit.
