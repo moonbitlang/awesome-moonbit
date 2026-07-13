@@ -61,6 +61,7 @@ Your favorite package is not listed? Fork and create a Pull Request to add it!
 - [illusory0x0/jcore](https://github.com/moonbit-community/jcore): JavaScript core library' s wasm binding. Only provides some basic FFI 
 interoperate with WebAssembly
 - [illusory0x0/color](https://github.com/illusory0x0/color.mbt): RGB and HSL conversion and store color in UInt32
+- [Suquster/moonbit-pathfinding](https://github.com/Suquster/moonbit-pathfinding): Pathfinding and graph algorithms library (BFS/Dijkstra/A*/JPS/CH/Hub Labels and more) with successor-function APIs, multi-backend tests and a [live playground](https://suquster.github.io/moonbit-pathfinding/).
 
 
 ## Documentation and Tour
