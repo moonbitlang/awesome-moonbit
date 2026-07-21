@@ -113,7 +113,6 @@ and learning projects. Project names link to their source repositories.
 
 - [Official documentation](https://docs.moonbitlang.com/en/stable/): Language, standard-library, FFI, and toolchain documentation.
 - [Interactive language tour](https://tour.moonbitlang.com/): Learn MoonBit in the browser.
-- [MoonBit Cloud IDE](https://tour.moonbitlang.com/): Write and run MoonBit without a local installation.
 - [MoonBit course](https://github.com/moonbitlang/moonbit-course): Official course materials and exercises.
 - [Use and publish packages](https://docs.moonbitlang.com/en/stable/toolchain/moon/package-manage-tour.html): The official guide to Mooncakes and package management.
 - [Build system tutorial](https://docs.moonbitlang.com/en/stable/toolchain/moon/tutorial.html): A practical introduction to modern MoonBit project workflows.
