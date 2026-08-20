@@ -76,7 +76,7 @@ and learning projects. Project names link to their source repositories.
 - [moonbit-community/pty](https://github.com/moonbit-community/tonyfettes-pty): Cross-platform pseudo-terminal spawning integrated with `moonbitlang/async`.
 - [justjavac/ffi](https://github.com/justjavac/moonbit-ffi): Tested UTF-8 C-string and UTF-16 wide-string conversions for FFI boundaries.
 - [illusory0x0/native](https://github.com/moonbit-community/native): Native FFI utilities for pointer arithmetic, C strings and arrays, reference counting, and allocation.
-- [mizchi/js](https://github.com/mizchi/js.mbt): JavaScript bindings for built-ins and browser, Node.js, Deno, and Bun APIs.
+- [mizchi/js](https://github.com/mizchi/js.mbt): JavaScript bindings for built-ins and Node.js, Deno, and Bun APIs, with package documentation for [mizchi/js 0.12.2](https://mooncakes.io/docs/mizchi/js@0.12.2) and browser APIs in [mizchi/js_browser 0.12.2](https://mooncakes.io/docs/mizchi/js_browser@0.12.2).
 - [bikallem/webapi](https://github.com/bikallem/webapi): Type-safe Web Platform API bindings generated from WebIDL for the JavaScript and wasm-gc backends.
 - [moonbit-community/sqlite3](https://github.com/moonbit-community/sqlite3.mbt): Lightweight, low-level bindings that provide a thin interface over the SQLite3 C API.
 - [moonbit-community/postgres](https://github.com/moonbit-community/postgres.mbt): A PostgreSQL client library with an included connection pool.
@@ -108,6 +108,7 @@ and learning projects. Project names link to their source repositories.
 - [wasm5](https://github.com/moonbitlang/wasm5): A WebAssembly virtual machine written in MoonBit.
 - [mbtcc](https://github.com/moonbitlang/mbtcc): A C11 compiler implemented in MoonBit.
 - [MoonbitNES](https://github.com/moonbit-community/MoonbitNES): A Nintendo Entertainment System emulator written in MoonBit.
+- [fullstack-moonbit](https://github.com/moonbit-community/fullstack-moonbit): A full-stack todo example using Rabbita and Moonback with SSR and hydration, targeting browser, server, and desktop from one MoonBit project.
 
 ## Documentation and Learning
 
