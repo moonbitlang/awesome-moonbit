@@ -63,6 +63,7 @@ and learning projects. Project names link to their source repositories.
 - [Yoorkin/rui](https://mooncakes.io/docs/Yoorkin/rui): Self-contained Vega-style UI components for Rabbita.
 - [mizchi/tui](https://github.com/mizchi/tui.mbt): A reactive terminal user-interface library.
 - [wzzc-dev/moui](https://github.com/wzzc-dev/MoUI): A multi-platform MoonBit declarative GUI framework — build declarative UI apps with shared platform-neutral logic.
+- [LING71671/moon-egui](https://github.com/LING71671/moon-egui): A lightweight, high-performance pure-MoonBit immediate-mode GUI library for WebAssembly, Canvas, and games.
 
 ### Data Structures and Algorithms
 
