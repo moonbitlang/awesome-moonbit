@@ -51,6 +51,7 @@ and learning projects. Project names link to their source repositories.
 - [kawaz/grapheme](https://github.com/kawaz/grapheme.mbt): Unicode grapheme-cluster segmentation implementing UAX #29.
 - [tonyfettes/unicode](https://github.com/moonbit-community/tonyfettes-unicode): Unicode 16 data and algorithms including normalization, IDNA, bidirectional text, and Punycode.
 - [moonbit-community/fuzzy_match](https://github.com/moonbit-community/fuzzy_match): Fuzzy string matching and searching adapted from Jane Street's `fuzzy_match`.
+- [Careylq/spell.mbt](https://github.com/Careylq/spell.mbt): Hunspell `.aff`/`.dic` parsing, affix morphology and spell judgement in pure MoonBit, with suggestions.
 
 ### Application Development
 
